@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pyto-installer"
+name = "pyxote"
 version = "0.1.0"
 description = "auto installer make with python"
 authors = ["HenriHTTP <zegordoplays123@gmail.com>"]
