@@ -1,7 +1,7 @@
 import pytest
 from typing import Dict
 from unittest.mock import patch
-from pyto.package_installer import PackageInstaller
+from pyxote.package_installer import PackageInstaller
 
 
 command_mock: Dict[str, str] = {

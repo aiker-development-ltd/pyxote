@@ -1,5 +1,5 @@
 import subprocess
-from pyto.installer import install_package
+from pyxote.installer import install_package
 
 # Simulates a case where the package install with sucess
 def test_install_package_sucess(mocker) -> None:

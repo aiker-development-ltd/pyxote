@@ -1,5 +1,5 @@
 import pytest
-from pyto.command_serializer import CommandSerializer
+from pyxote.command_serializer import CommandSerializer
 from typing import Dict
 from unittest.mock import patch, call, _Call
 

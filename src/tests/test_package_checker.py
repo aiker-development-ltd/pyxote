@@ -1,4 +1,4 @@
-from pyto.package_checker import is_package_installed
+from pyxote.package_checker import is_package_installed
 
 
 # Simulates the return of `shutil.which` as if the package exists
