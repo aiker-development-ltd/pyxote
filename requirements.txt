@@ -43,7 +43,6 @@ Pygments==2.18.0
 pyproject_hooks==1.2.0
 pytest==8.3.3
 pytest-mock==3.14.0
-pyxote @ file:///home/php/Documentos/pyto-installer/pyto-installer
 PyYAML==6.0.2
 RapidFuzz==3.10.1
 readme_renderer==44.0
